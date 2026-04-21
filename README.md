@@ -357,6 +357,7 @@
 |2024|CVPR|[DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_DyBluRF_Dynamic_Neural_Radiance_Fields_from_Blurry_Monocular_Video_CVPR_2024_paper.html)||
 |2024|ECCV|[Rethinking video deblurring with waveletaware dynamic transformer and diffusion model](https://arxiv.org/abs/2408.13459)|[Code](https://github.com/Chen-Rao/VD-Diff)|
 |2024|NeurIPS|[Learning Truncated Causal History Model for Video Restoration](https://arxiv.org/abs/2410.03936)|[Code](https://github.com/Ascend-Research/Turtle)|
+|2026|TMM|[Saturation-Aware Space-Variant Blind Image Deblurring](https://ieeexplore.ieee.org/document/11475880)|[Code](https://github.com/ZeshanAlam/Saturation-Aware-Space-Variant-Blind-Image-Deblurring)|
 ## Challenges on Motion Deblurring
 
 |Year|Pub|Paper|Repo|
